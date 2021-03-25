@@ -1,0 +1,12 @@
+input {
+    display: block;
+    margin: 10px 20px;
+}
+button{
+    margin: 10px 20px;
+}
+
+.container-operations{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
